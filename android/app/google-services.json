@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702140056371",
+    "project_id": "ieee-tanta",
+    "storage_bucket": "ieee-tanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702140056371:android:1302c5a967d2868562f446",
+        "android_client_info": {
+          "package_name": "com.example.ieee_tanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702140056371-f2t1t6b6d8m2tcjb6gltvr55re74gjuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAXGrVD1p86_JQR2svRJOcTDyNIOEOgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702140056371-f2t1t6b6d8m2tcjb6gltvr55re74gjuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
